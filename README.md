@@ -7,9 +7,6 @@ This survey is a crucial component of our ongoing efforts to write a perspective
 
 ![FigGit](https://github.com/ciuccislab/DRT-Survey/assets/57649983/b6ba2595-80a3-40a9-b9ad-fa481cc0e896)
 
-
-![Perspec_FigureABC](https://github.com/ciuccislab/DRT-Survey/assets/57649983/77db79bc-f0c4-4d1b-8ad5-7706a8832e9c)
-
-Figure 1: Starting with EIS data, the DRT is deconvolved (panel 1), which results in the identification of timescales (panel 2) and subsequently identifying the corresponding electrochemical processes (panel 3).
+Starting with EIS data, the DRT is deconvolved, which results in the identification of timescales, subsequent analysis allows the identification of the corresponding electrochemical processes.
 
 For more details about the survey, you can check the supplementary information in [docs](docs)
