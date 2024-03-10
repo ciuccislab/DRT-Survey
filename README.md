@@ -1,5 +1,7 @@
 # DRT Survey
 
+Electrochemical Impedance Spectroscopy (EIS) is a commonly employed characterization technique for studying electrochemical systems like batteries and fuel cells [1,2,3]. The distribution of relaxation times (DRT) has become a versatile alternative to equivalent circuits and physical models in EIS data analysis [1-8]. Despite its versatility, deconvolving the DRT from EIS spectra poses challenges, leading to the development of various approaches for this purpose [2-8]. 
+
 We conducted a bilingual survey aimed at gathering information, based on experts' feedback, regarding the utilization of DRT methods and software in analyzing EIS measurements. The primary objective of this 
 survey is to gain insights into the requirements and preferences of experimentalists, engineers, and professionals concerning DRT methods and software. Additionally, we seek to understand the needs for future development. 
 
